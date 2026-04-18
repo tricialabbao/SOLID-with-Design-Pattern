@@ -23,4 +23,4 @@ The system works like this:
 - **`Main`:** The entry point that creates a student and borrows all resource types.
 
 ## UML Class Diagram
-![Image]()
+![Image](https://github.com/tricialabbao/SOLID-with-Design-Pattern/blob/main/SOLID%20with%20Design%20Pattern.png)
